@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Dmitriy Nechaev",
+    "email": "dnech@mail.ru",
+    "url": "https://github.com/dnech"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "description": "A little memory database",
+  "devDependencies": {},
+  "keywords": [
+    "db",
+    "memdb"
+  ],
+  "main": "memdb.js",
+  "name": "memdb",
+  "repository": {
+    "url": "https://github.com/dnech/node-memdb",
+    "type": "git"
+  },
+  "version": "0.0.1",
+  "readme": "# memdb\n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/dnech/node-memdb/issues"
+  },
+  "_id": "memdb@0.0.1",
+  "_from": "memdb@"
+}
